@@ -26,7 +26,7 @@ class Coment extends Component
         $comentarios->Fecha = date('Y-m-d H:i:s');
         $comentarios->id_usuario = auth()->user()->id;
         $comentarios->save();
-        
+
         $this->comentarios = comentarios::all();
         $this->coments = comentarios::count();
 
@@ -42,6 +42,7 @@ class Coment extends Component
             $this->x++;
             $this->comentarios = comentarios::all();
             $this->coments = comentarios::count();
+            return view('livewire.coment');
         }
         if($this->x > 0){
             return view('livewire.coment');

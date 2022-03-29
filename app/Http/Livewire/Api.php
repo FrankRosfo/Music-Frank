@@ -8,6 +8,7 @@ use Illuminate\Http\Request;
 class Api extends Component
 {
     public $x = 0;
+    public $resultados;
 
     /**
      * Funcion de api Nacion.
@@ -50,7 +51,9 @@ class Api extends Component
                 'id' => "",
                 'probabilidad' => ""
             ];
-            return view('livewire.api',['resultados' => $resultados]);
+
+            $this->resultados = $resultados;
+            return view('livewire.api');
         }
         if($this->x > 0){
             return view('livewire.api');

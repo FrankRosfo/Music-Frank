@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('Artista');
             $table->string('Album');
             $table->string('Duracion');
-            $table->string('URL');
+            $table->string('Url');
             $table->string('Imagen');
             $table->string('Extension');
             $table->timestamps();

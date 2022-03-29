@@ -4,7 +4,7 @@
             <img class="img-responsive" src="{{ $music['Imagen'] }}{{ $music['Extension'] }}" alt="" />
         </div>
         <div class="album-details">
-            <audio src="{{ $music['URL'] }}" controls="controls" type="audio/mpeg" preload="preload"></audio>
+            <audio src="{{ $music['Url'] }}" controls="controls" type="audio/mpeg" preload="preload"></audio>
             <h2>{{ $music['Nombre'] }} </h2>
             <h5>{{ $music['Artista'] }}</h5>
         </div>
