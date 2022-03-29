@@ -36,7 +36,7 @@
                 </fieldset>
             </div>
             @enderror
-            <div class="col-lg-12">
+            <div class="col-sm-12">
                 <fieldset>
                     <button type="submit" id="form-submit" class="main-button" style="center">Ingresar</button>
                 </fieldset>
