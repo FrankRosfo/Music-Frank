@@ -28,7 +28,7 @@ class MusicaSeed extends Seeder
             $cancion->Album = $datos->tags1['album'].PHP_EOL;
             $cancion->Duracion = floor($datos->duration / 60).' min '.floor($datos->duration % 60).' sec'.PHP_EOL;
             $cancion->Url = "storage/app/public/musica/".$music;
-            $cancion->Imagen = "storage/app/public/imagenes/".$i;
+            $cancion->Imagen = "storage/app/public/imagenes/image".$i;
             $cancion->Extension = ".jpg";
             $cancion->save();
         }
