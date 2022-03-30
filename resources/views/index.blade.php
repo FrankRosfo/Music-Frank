@@ -29,7 +29,7 @@
     <div class="container-fluid">
         <div class="owl-banner owl-carousel">
             <div class="item">
-                <img src="/storage/imagenes/Dragons 1.jpg" alt="">
+                <img src="../storage/imagenes/dragons1.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
