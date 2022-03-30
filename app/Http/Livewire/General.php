@@ -24,7 +24,7 @@ class General extends Component
     {
         if($this->x < 1){
             $this->x++;
-            $i = rand(1,56);
+            $i = rand(1,10);
             $canciones = Canciones::all();
             $music = Canciones::find($i);
             return view('livewire.general',['canciones' => $canciones, 'music' => $music]);
