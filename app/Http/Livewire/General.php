@@ -9,8 +9,6 @@ use SebastianBergmann\Environment\Console;
 class General extends Component
 {
     public $x = 0;
-    public $canciones = [];
-    public $music;
 
     public function play($id)
     {
@@ -26,10 +24,10 @@ class General extends Component
     {
         if($this->x < 1){
             $this->x++;
-            $id = rand(1,56);
-            $this->canciones = Canciones::all();
-            $this->music = Canciones::find($id);
-            return view('livewire.general');
+            $i = rand(1,56);
+            $canciones = Canciones::all();
+            $music = Canciones::find($i);
+            return view('livewire.general',['canciones' => $canciones, 'music' => $music]);
         }
         if($this->x > 0){
             return view('livewire.general');
