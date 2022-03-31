@@ -30,7 +30,6 @@ class MusicaSeed extends Seeder
             $cancion->Url = "/assets/musica/".$music;
             $cancion->Imagen = "/assets/images/image".$i;
             $cancion->Extension = ".jpg";
-            //Por favor
             $cancion->save();
         }
     }

@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="/storage/imagenes/Dragons 2.jpg" alt="">
+                <img src="/storage/imagenes/dragons2.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
@@ -55,7 +55,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="/storage/imagenes/Dragons 3.jpg" alt="">
+                <img src="/storage/imagenes/dragons3.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
@@ -68,7 +68,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="/storage/imagenes/Dragons 4.jpg" alt="">
+                <img src="/storage/imagenes/dragons4.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
@@ -81,7 +81,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="/storage/imagenes/Dragons 5.jpg" alt="">
+                <img src="/storage/imagenes/dragons5.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
@@ -94,7 +94,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="/storage/imagenes/Dragons 6.jpg" alt="">
+                <img src="/storage/imagenes/dragons6.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
