@@ -1,4 +1,4 @@
-<p align="center"><a href="http://music-frank.herokuapp.com" target="_blank"><img src="/assets/images/Readme.jpg" width="400"></a></p>
+<p align="center"><a href="http://music-frank.herokuapp.com" target="_blank"><img src="public/assets/images/Readme.jpg" width="400"></a></p>
 
 ## About Music-Frank
 
