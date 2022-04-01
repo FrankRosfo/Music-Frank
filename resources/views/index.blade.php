@@ -29,7 +29,7 @@
     <div class="container-fluid">
         <div class="owl-banner owl-carousel">
             <div class="item">
-                <img src="../storage/imagenes/dragons1.jpg" alt="">
+                <img src="/assets/images/dragons1.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="/storage/imagenes/dragons2.jpg" alt="">
+                <img src="/assets/images/dragons2.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
@@ -55,7 +55,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="/storage/imagenes/dragons3.jpg" alt="">
+                <img src="/assets/images/dragons3.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
@@ -68,7 +68,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="/storage/imagenes/dragons4.jpg" alt="">
+                <img src="/assets/images/dragons4.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
@@ -81,7 +81,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="/storage/imagenes/dragons5.jpg" alt="">
+                <img src="/assets/images/dragons5.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
@@ -94,7 +94,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="/storage/imagenes/dragons6.jpg" alt="">
+                <img src="/assets/images/dragons6.jpg" alt="">
                 <div class="item-content">
                     <div class="main-content">
                         <div class="meta-category">
