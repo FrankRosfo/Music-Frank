@@ -54,12 +54,12 @@
                   <form action="/mail" method="post">
                     @csrf
                     <div class="con">
-                      <div class="col-lg-12">
+                      <div class="col-xs-12 col-lg-12">
                         <fieldset>
                           <textarea name="message" rows="6" id="message" placeholder="Mensaje" required=""></textarea>
                         </fieldset>
                       </div>
-                      <div class="col-lg-4">
+                      <div class="col-xs-12 col-lg-4">
                         <fieldset>
                           <button type="submit" id="form-submit" class="main-button">Enviar Mensaje</button>
                         </fieldset>

@@ -19,22 +19,22 @@
     <form action="/registro" method="post">
         @csrf
         <div class="login">
-            <div class="col-sm-12">
+            <div class="col-xs-12 col-sm-12">
                 <fieldset>
                     <input name="name" type="text" id="name" placeholder="Nombre" required="">
                 </fieldset>
             </div>
-            <div class="col-sm-12">
+            <div class="col-xs-12 col-sm-12">
                 <fieldset>
                     <input name="email" type="email" id="email" placeholder="Correo" required="">
                 </fieldset>
             </div>
-            <div class="col-sm-12">
+            <div class="col-xs-12 col-sm-12">
                 <fieldset>
                     <input name="password" type="password" id="password" placeholder="Contraseña" required="">
                 </fieldset>
             </div>
-            <div class="col-lg-12">
+            <div class="col-xs-12 col-lg-12">
                 <fieldset>
                     <button type="submit" id="form-submit" class="main-button">Registrarse</button>
                 </fieldset>

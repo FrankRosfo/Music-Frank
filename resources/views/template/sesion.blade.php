@@ -26,7 +26,7 @@
     <div class="col-lg-auto">
       <div class="down-login">
         <div class="row">
-          <div class="col-lg-12">
+          <div class="col-xs-12 col-lg-12">
             <div class="sidebar-item login-form">
               @yield('Form')
             </div>
